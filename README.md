@@ -2,7 +2,7 @@
 
 # Rails Blog
 
->**In this project, we create a simple version of an app. The main goal here is to make it up and running.**
+>**In this project, we create a simple version of a blog app. The main goal here is to make it up and running.**
 
 ## Instructions
 * You can create a new article, setting up tittle and body.
@@ -57,7 +57,7 @@
 👤 **Mar y Sol Bautista**
 
 - GitHub: [@marilirulita](https://github.com/marilirulita)
-- Linkedin: [Mar y Sol Bautista](https://www.linkedin.com/in/mar-y-sol-bautista-alvarez-5a6894151/)
+- Linkedin: [Mar y Sol Bautista](https://www.linkedin.com/in/marbautista/)
 - Twiter: [@marylirulita](https://twitter.com/marylirulita)
 
 ## 🤝 Contributing
